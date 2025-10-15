@@ -1,0 +1,1 @@
+A simple text file to confirm that our new GitHub Action when run only when the commit comment is "create conflict"
